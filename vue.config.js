@@ -92,5 +92,6 @@ module.exports = {
     // 向 PWA 插件传递选项
     pwa: {},
     // 可以用来传递任何第三方插件选项
-    pluginOptions: {}
+    pluginOptions: {},
+    pluginOptions1: {},
 }
